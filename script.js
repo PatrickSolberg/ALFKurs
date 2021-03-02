@@ -34,9 +34,9 @@ function myTimer() {
 
 //Setter opp datoer til neste kurs
 var countkurs1 = new Date("Mar 04, 2021 09:00:00").getTime();
-var countkurs2 = new Date("Mar 05, 2021 17:34:10").getTime();
-var countkurs3 = new Date("Mar 04, 2021 17:34:20").getTime();
-var countkurs4 = new Date("Mar 04, 2021 17:34:30").getTime();
+var countkurs2 = new Date("Mar 05, 2021 09:00:00").getTime();
+var countkurs3 = new Date("Mar 11, 2021 09:00:00").getTime();
+var countkurs4 = new Date("Mar 12, 2021 09:00:00").getTime();
 
 // Oppdaterer nedtellingen = 1 sek.
 var x = setInterval(function() {
