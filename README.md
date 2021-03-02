@@ -1,0 +1,2 @@
+# ALFKurs
+ Neste Kurs dato
